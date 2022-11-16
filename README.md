@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Development pasos
+
+1. Renombrar el archivo .env.template por .env
+2. Haacer los cambios respectivos en las variables de entorno. 
+```
+API_URL=http://localhost:4000/api
+
+```
